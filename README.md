@@ -1,14 +1,10 @@
-# Hi!
+# Hi! 👋
 
 My name is Cauê Melo and I'm a software developer. I'm from Brazil, living in Rio de Janeiro.
 
 
-## Contact me
-[![Linkedin Badge](https://img.shields.io/badge/-Cauê%20Melo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cauemelo)](https://www.linkedin.com/in/cauemelo) 
-[![Gmail Badge](https://img.shields.io/badge/-cauesmelo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cauesmelo@gmail.com)](mailto:cauesmelo@gmail.com)
 
-
-## Techs and tools
+## 🛠 Techs and tools
 ![](https://img.shields.io/badge/MacOS-OS-informational?style=flat-square&logo=apple&logoColor=white&color=f3f3f3)
 ![](https://img.shields.io/badge/VSCode-Editor-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=f3f3f3)
 ![](https://img.shields.io/badge/Javascript-Code-informational?style=flat-square&logo=Javascript&logoColor=white&color=f3f3f3)
@@ -24,3 +20,8 @@ My name is Cauê Melo and I'm a software developer. I'm from Brazil, living in R
 ![](https://img.shields.io/badge/AWS-Cloud-informational?style=flat-square&logo=amazon-aws&logoColor=white&color=f3f3f3)
 ![](https://img.shields.io/badge/Godot-GE-informational?style=flat-square&logo=godot-engine&logoColor=white&color=f3f3f3)
 
+
+
+## 📨 Contact me
+[![Linkedin Badge](https://img.shields.io/badge/-Cauê%20Melo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=555555&link=https://www.linkedin.com/in/cauemelo)](https://www.linkedin.com/in/cauemelo) 
+[![Gmail Badge](https://img.shields.io/badge/-cauesmelo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&color=555555&link=mailto:cauesmelo@gmail.com)](mailto:cauesmelo@gmail.com)
