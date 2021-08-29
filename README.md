@@ -1,4 +1,4 @@
-# Hi! 👋
+# Hi!
 
 My name is Cauê Melo and I'm a software developer. I'm from Brazil, living in Rio de Janeiro.
 
