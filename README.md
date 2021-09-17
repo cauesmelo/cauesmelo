@@ -21,6 +21,7 @@ My name is Cauê Melo and I'm a full stack developer. I'm from Brazil, living in
 ![](https://img.shields.io/badge/AWS-Cloud-informational?style=flat-square&logo=amazon-aws&logoColor=white&color=f3f3f3)
 ![](https://img.shields.io/badge/Godot-GE-informational?style=flat-square&logo=godot-engine&logoColor=white&color=f3f3f3)
 ![](https://img.shields.io/badge/Unity-GE-informational?style=flat-square&logo=unity&logoColor=white&color=f3f3f3)
+![](https://img.shields.io/badge/Rust-Code-informational?style=flat-square&logo=rust&logoColor=white&color=f3f3f3)
 
 
 
