@@ -16,7 +16,7 @@ My name is Cauê Melo and I'm a full stack developer. I'm from Brazil, living in
 ![](https://img.shields.io/badge/PostgreSQL-Tools-informational?style=flat-square&logo=postgresql&logoColor=white&color=f3f3f3)
 ![](https://img.shields.io/badge/MySQL-Tools-informational?style=flat-square&logo=mysql&logoColor=white&color=f3f3f3)
 ![](https://img.shields.io/badge/Docker-Tools-informational?style=flat-square&logo=docker&logoColor=white&color=f3f3f3)
-![](https://img.shields.io/badge/AWS-Cloud-informational?style=flat-square&logo=amazon-aws&logoColor=white&color=f3f3f3)
+![](https://img.shields.io/badge/Azure-Cloud-informational?style=flat-square&logo=microsoft-azure&logoColor=white&color=f3f3f3)
 
 
 
