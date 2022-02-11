@@ -1,6 +1,6 @@
 # Hi!
 
-My name is Cauê Melo and I'm a full stack developer. I'm from Brazil, living in Rio de Janeiro. Rust enthusiast. 🦀
+My name is Cauê Melo and I'm a full stack developer. I'm from Brazil, living in Rio de Janeiro. Passionate TypeScript developer. 💕
 
 
 
@@ -10,8 +10,6 @@ My name is Cauê Melo and I'm a full stack developer. I'm from Brazil, living in
 ![](https://img.shields.io/badge/ReactJS-Code-informational?style=flat-square&logo=react&logoColor=white&color=f3f3f3)
 ![](https://img.shields.io/badge/Node.JS-Code-informational?style=flat-square&logo=nodedotjs&logoColor=white&color=f3f3f3)
 ![](https://img.shields.io/badge/React_Native-Code-informational?style=flat-square&logo=react&logoColor=white&color=f3f3f3)
-![](https://img.shields.io/badge/Rust-Code-informational?style=flat-square&logo=rust&logoColor=white&color=f3f3f3)
-![](https://img.shields.io/badge/Python-Code-informational?style=flat-square&logo=python&logoColor=white&color=f3f3f3)
 ![](https://img.shields.io/badge/VSCode-Editor-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=f3f3f3)
 ![](https://img.shields.io/badge/PostgreSQL-Tools-informational?style=flat-square&logo=postgresql&logoColor=white&color=f3f3f3)
 ![](https://img.shields.io/badge/MySQL-Tools-informational?style=flat-square&logo=mysql&logoColor=white&color=f3f3f3)
