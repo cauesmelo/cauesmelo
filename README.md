@@ -17,7 +17,6 @@ My name is Cauê Melo and I'm a full stack developer. I'm from Brazil, living in
 ![](https://img.shields.io/badge/Docker-Tools-informational?style=flat-square&logo=docker&logoColor=white&color=f3f3f3)
 ![](https://img.shields.io/badge/Node.JS-Code-informational?style=flat-square&logo=nodedotjs&logoColor=white&color=f3f3f3)
 ![](https://img.shields.io/badge/PostgreSQL-Tools-informational?style=flat-square&logo=postgresql&logoColor=white&color=f3f3f3)
-![](https://img.shields.io/badge/React_Native-Code-informational?style=flat-square&logo=react&logoColor=white&color=f3f3f3)
 
 
 
