@@ -1,6 +1,6 @@
 # Hi!
 
-My name is Cauê Melo and I'm a full stack developer. I'm from Brazil, living in Rio de Janeiro. Passionate TypeScript developer. 💕
+My name is Cauê Melo and I'm a software engineer @ Hurb. I'm from Brazil, living in Rio de Janeiro. Passionate TypeScript developer. 💕
 
 
 
