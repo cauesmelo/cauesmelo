@@ -1,6 +1,4 @@
-# Hi!
-
-My name is Cauê Melo and I'm a software engineer @ Hurb. I'm from Brazil, living in Rio de Janeiro.
+Software engineer @ Hurb, based in Rio de Janeiro.
 
 
 
