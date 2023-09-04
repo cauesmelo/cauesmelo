@@ -1,4 +1,4 @@
-Software engineer @ Hurb, based in Rio de Janeiro.
+Software engineer @ Ímpar, based in Rio de Janeiro.
 
 
 
