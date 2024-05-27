@@ -1,4 +1,4 @@
-Software engineer @ Ímpar, based in Rio de Janeiro.
+Software engineer @ BCG, based in Rio de Janeiro.
 
 
 
