@@ -1,4 +1,4 @@
-Software engineer @ BCG, based in Rio de Janeiro.
+Senior Software engineer @ BCG, based in Rio de Janeiro.
 
 
 
